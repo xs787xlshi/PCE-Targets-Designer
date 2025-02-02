@@ -1,0 +1,2 @@
+Genome assembly IRGSP-1.0
+https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_001433935.1/

@@ -1,0 +1,18 @@
+batman -g ../../db/IRGSP1.0/IRGSP1.0.fa -q result_PCE/targets/target_2_target.fa -n 5 -m 20 -o 10652.bin 
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Using the genome files
+ ../../db/IRGSP1.0/IRGSP1.0.fa.bwt	 ../../db/IRGSP1.0/IRGSP1.0.fa.fmv
+ ../../db/IRGSP1.0/revIRGSP1.0.fa.bwt	 ../../db/IRGSP1.0/revIRGSP1.0.fa.fmv
+Query File : result_PCE/targets/target_2_target.fa 		 Output file: 10652.bin
+Length of Tags: 23	Mismatches allowed : 5
+FASTA file..
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Not using Quality info...
+Scanning complement...
+Not scanning indels...
+^^Scanning in zigzag mode^^
+31%->34%->38%->42%->45%->49%->52%->56%->60%->63%->67%->71%->74%->78%->81%->85%->89%->92%->96%->100%
+Total Tags/Hits : 28/560	 Tags parsed : 28
+
+ Time Taken  - 0 Seconds ..
+ 

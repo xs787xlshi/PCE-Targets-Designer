@@ -1,0 +1,18 @@
+
+********************************************************************************************
+*                            batdecode Version :3.00                                       *
+********************************************************************************************
+13 Genomes Loaded..
+Forward index loaded ...
+Reverse index loaded ...
+Using the genome files
+ ../../db/IRGSP1.0/IRGSP1.0.fa.bwt	 ../../db/IRGSP1.0/IRGSP1.0.fa.fmv	 ../../db/IRGSP1.0/IRGSP1.0.fa.sa
+ ../../db/IRGSP1.0/revIRGSP1.0.fa.bwt	 ../../db/IRGSP1.0/revIRGSP1.0.fa.fmv	 ../../db/IRGSP1.0/revIRGSP1.0.fa.sa
+Input File : 29987.bin	  Output File : result_scarless/sam/rLox71_AR2_scar.sam 
+Length of a tag : 23
+Using location file : ../../db/IRGSP1.0/IRGSP1.0.fa.ann.location
+100%
+Total Tags/Hits[Rejected Hits] 54 / 1080[0]
+
+ Time Taken  - 0 Seconds ..
+ 
