@@ -13,12 +13,16 @@ Currently, PCE Targets Designer v1.0 is specifically tailored for designing targ
 
 # PCEDesign_multiple.py (Design pegRNA for integration, deletion, inversion, replace ment and translocation manipulations)
 Usage: python PCEDesign_multiple.py ./example/test_PCE.fa
+
 Input file: ./example/test_PCE.fa
+
 Output file: ./result_PCE/results/*.TwinPair.txt
 
 # PCEDesignScarless_multiple.py (Design pegRNA for removing scar)
 Usage: python PCEDesignScarless_multiple.py ./example/test_scarless.fa
+
 Input file: ./example/test_scarless.fa
+
 Output files: ./ result_scarless/results/*.TwinPair.txt
 
 Xie, X., Ma, X., Zhu, Q., Zeng, D., Li, G., Liu, YG., (2017). CRISPR-GE: A Convenient Software Toolkit for CRISPR-Based Genome Editing. Mol. Plant 10, 1246–1249.
