@@ -1,5 +1,4 @@
-# Programmable Chromosome Engineering (PCE) system: Designing pegRNAs for Various Large-Scale DNA Manipu
-lations
+# Programmable Chromosome Engineering (PCE) system: Designing pegRNAs for Various Large-Scale DNA Manipulations
 
 Given the complexity of designing pegRNAs for the PCE and RePCE systems, we developed a web-based tool, 
 PCE Targets Designer v1.0 (http://www.engineeringchromosome.net/), to streamline and simplify the design
