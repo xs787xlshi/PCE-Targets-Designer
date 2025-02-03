@@ -8,7 +8,9 @@ Given the complexity of designing pegRNAs for the PCE and RePCE systems, we deve
     • The potential off-target effects of the target site sequence.
     
 The single pegRNA designer module of PCE Targets Designer was developed by modifying CRISPR-GE (Xie et al., 2017), incorporating the BatMis software (Tennakoon et al., 2012) to perform off-target scanning within the reference genome. The output includes a user-friendly list of target sites based on the input genomic DNA sequences, ranked according to the factors mentioned above. For subsequent pegRNA primer design, users can refer to the PlantPegDesigner tool (http://www.plantgenomeediting.net/).
+
 Currently, PCE Targets Designer v1.0 is specifically tailored for designing target sites in the rice genome. We plan to enhance the tool in future versions by adding advanced functionalities, improving design accuracy, and expanding support for additional species’ genomes.
+
 # PCEDesign_multiple.py (Design pegRNA for integration, deletion, inversion, replace ment and translocation manipulations)
 Usage: python PCEDesign_multiple.py ./example/test_PCE.fa
 Input file: ./example/test_PCE.fa
