@@ -1,6 +1,7 @@
 # Programmable Chromosome Engineering (PCE) system: Designing pegRNAs for Various Large-Scale DNA Manipulations
 
 Given the complexity of designing pegRNAs for the PCE and RePCE systems, we developed a web-based tool, PCE Targets Designer v1.0 (http://www.engineeringchromosome.net/), to streamline and simplify the design of target sites for diverse chromosome editing applications. These applications include integration, deletion, inversion, replacement, translocation, and scarless editing. This tool aims to provide researchers with a convenient and efficient platform for utilizing our systems. When designing target sites, the tool considers several critical factors:
+
     • The PAM types associated with the target site,
     • The distance between cleavage sites for the dual-pegRNA strategy,
     • The secondary structure formed between the target site sequence and the RT sequence, and
