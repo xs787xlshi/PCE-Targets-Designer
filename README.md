@@ -25,6 +25,7 @@ Input file: ./example/test_scarless.fa
 
 Output files: ./ result_scarless/results/*.TwinPair.txt
 
+
 Xie, X., Ma, X., Zhu, Q., Zeng, D., Li, G., Liu, YG., (2017). CRISPR-GE: A Convenient Software Toolkit for CRISPR-Based Genome Editing. Mol. Plant 10, 1246–1249.
 
 Tennakoon, C., Purbojati, R., Sung, W-K., (2012). BatMis: a fast algorithm for k-mismatch mapping. Bioinformatics 28, 2122-2128.
