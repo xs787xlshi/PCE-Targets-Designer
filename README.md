@@ -11,7 +11,7 @@ The single pegRNA designer module of PCE Targets Designer was developed by modif
 
 Currently, PCE Targets Designer v1.0 is specifically tailored for designing target sites in the rice genome. We plan to enhance the tool in future versions by adding advanced functionalities, improving design accuracy, and expanding support for additional species’ genomes.
 
-# PCEDesign_multiple.py (Design pegRNA for integration, deletion, inversion, replace ment and translocation manipulations)
+# PCEDesign_multiple.py (Design pegRNA for integration, deletion, inversion, replacement and translocation manipulations)
 Usage: python PCEDesign_multiple.py ./example/test_PCE.fa
 
 Input file: ./example/test_PCE.fa
